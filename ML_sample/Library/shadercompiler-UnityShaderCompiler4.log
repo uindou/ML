@@ -1,0 +1,4 @@
+Base path: '/Applications/2020.1.1f1/Unity.app/Contents', plugins path '/Applications/2020.1.1f1/Unity.app/Contents/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=14 insize=19771 outsize=12102 ok=1
